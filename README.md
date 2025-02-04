@@ -20,11 +20,10 @@ Visit the live demo at: https://gr8z.github.io/spotter-flights/
 
 - React
 - TypeScript
+- Vite
 - Material-UI
 - Sky Scrapper API (RapidAPI)
-- Vite
-- React Router
-- Day.js for date handling
+- Day.js
 
 ## Setup Instructions
 
