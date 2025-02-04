@@ -1,6 +1,12 @@
 # Spotter Flights
 
+[![Deploy to GitHub Pages](https://github.com/Gr8z/spotter-flights/actions/workflows/deploy.yml/badge.svg)](https://github.com/Gr8z/spotter-flights/actions/workflows/deploy.yml)
+
 A responsive flight search application built with React, inspired by Google Flights. This project was created as a technical interview task for Spotter.AI.
+
+## Demo
+
+Visit the live demo at: https://gr8z.github.io/spotter-flights/
 
 ## Features
 
@@ -44,7 +50,6 @@ src/
   ├── pages/         # Page components
   ├── services/      # API services
   ├── types/         # TypeScript interfaces
-  ├── utils/         # Utility functions
   └── App.tsx        # Main application component
 ```
 
