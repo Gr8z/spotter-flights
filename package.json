@@ -1,8 +1,14 @@
 {
   "name": "spotter-flights",
   "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "version": "0.1.0",
+  "description": "A modern flight search application built with React",
+  "author": "Gr8z",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gr8z/spotter-flights.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
